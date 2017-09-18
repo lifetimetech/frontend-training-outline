@@ -7,7 +7,17 @@ Task Runner (Gulp, Grunt, NPM), ES6 + ES7, Framework/Library (Angular/React + Re
 - Nắm được 1 framework của JavaScript
 
 ## Tài liệu
-- [ExploreJS](http://exploringjs.com/es6.html)
+- ES6
+  - [https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/)
+  - [ExploreJS](http://exploringjs.com/es6.html)
+- Angular
+  - [http://learnangular2.com/](http://learnangular2.com/)
+  - [https://angular.io/](https://angular.io/)
+- React + Redux
+  - [https://facebook.github.io/react/](https://facebook.github.io/react/)
+  - [http://redux.js.org/](http://redux.js.org/)
+- Vuejs
+  - [https://vuejs.org/](https://vuejs.org/)
 
 ## Tuần 1
 - Task Runner: Dùng command line tool để tự động hoá một số tác vụ như compile ES6, SASS

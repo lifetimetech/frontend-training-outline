@@ -7,7 +7,9 @@ HTML, CSS nâng cao, Preprocessor(SASS), SEO
 - Tư tưởng khi làm cắt HTML/CSS qua BEM
 
 ## Tài liệu
-- Google Drive/Front-end Training/Level 2
+- CSS Mastery, 3rd Edition (Google Drive/Front-end Training)
+- [SASS](http://sass-lang.com/)
+- [BEM](http://getbem.com/)
 
 ## Tuần 1
 - Responsive
@@ -35,6 +37,7 @@ HTML, CSS nâng cao, Preprocessor(SASS), SEO
 - Performance
   - Minify & concat
   - HTML structure
+  - HTML5: async, defer, preload, prefetch
 - BEM
   - Block, Element, Modifier
   - Nắm được tư tưởng viết code dùng lại của BEM
