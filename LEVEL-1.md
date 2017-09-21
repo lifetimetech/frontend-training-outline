@@ -11,6 +11,7 @@ Tìm hiểu về HTML, CSS, JavaScript + jQuery cơ bản, Bootstrap, Photoshop,
 - HTML-CSS-design-and-build-websites (Google Drive/Front-end Training)
 - JavaScript & jQuery - Interactive Front-End Web Development (Google Drive/Front-end Training)
 - CSS Mastery, 3rd Edition (Google Drive/Front-end Training)
+- [JavaScript](http://eloquentjavascript.net/)
 - Chrome Dev Tools
   - [Inspect element & style](https://developers.google.com/web/tools/chrome-devtools/inspect-styles)
   - [Console](https://developers.google.com/web/tools/chrome-devtools/console/)
@@ -42,6 +43,7 @@ Tìm hiểu về HTML, CSS, JavaScript + jQuery cơ bản, Bootstrap, Photoshop,
   - Animation
   - Box Shadow
   - :before, :after
+  - [Normalize](https://necolas.github.io/normalize.css/)
 
 ## Tuần 2 + Tuần 3
 - Bootstrap
@@ -70,6 +72,8 @@ Tìm hiểu về HTML, CSS, JavaScript + jQuery cơ bản, Bootstrap, Photoshop,
   - Nắm được tool cơ bản của Photoshop như select, slice, color picker
   - Export ảnh ra dạng web
 - [PicPick](http://ngwin.com/picpick)
+- [W3 Validator](https://validator.w3.org/) to validate HTML
+- [caniuse](http://caniuse.com/) để xem tương thích của các feature mới
 
 ## Tuần 4
 - Git cơ bản

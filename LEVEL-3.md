@@ -31,6 +31,7 @@ Task Runner (Gulp, Grunt, NPM), ES6 + ES7, Framework/Library (Angular/React + Re
   - Module
   - Object
   - Spread, rest parameters
+  - Destructuring assignment
   - Map, WeekMap, Set, WeekSet
   - Promise
   - Generator
