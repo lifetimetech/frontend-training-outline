@@ -64,6 +64,24 @@ Task Runner (Gulp, Grunt, NPM), ES6 + ES7, Framework/Library (Angular/React + Re
     - Immutable update pattern
     - redux-thunk/redux-saga
 - Vuejs
-
+  - The Vue Instance
+    - Creating a Vue Instance
+    - Data and Methods
+    - Instance Lifecycle Hooks
+    - Lifecycle Diagram
+  - Template Syntax
+  - Computed Properties and Watchers
+  - Class and Style Bindings
+  - Conditional Rendering
+  - List Rendering
+  - Event Handling
+  - Form Input Bindings
+  - Components
+  - Mixins
+  - Plugins
+  - Filters
+  - Single File Components
+  - Migration from Vue Router
+  - Migration from Vuex
 ## Tuần 4
 - Xây dựng 1 web app dựa trên 1 framework
