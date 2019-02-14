@@ -39,8 +39,8 @@ Tìm hiểu về HTML, CSS, JavaScript + jQuery cơ bản, Bootstrap, Photoshop,
   - [Display](https://www.w3schools.com/css/css_display_visibility.asp)
   - [Max width](https://www.w3schools.com/css/css_max-width.asp)
   - [Position](https://www.w3schools.com/css/css_positioning.asp)
-  - [https://www.w3schools.com/css/css_overflow.asp](https://www.w3schools.com/css/css_overflow.asp)
-  - [https://www.w3schools.com/css/css_float.asp](https://www.w3schools.com/css/css_float.asp)
+  - [Overflow](https://www.w3schools.com/css/css_overflow.asp)
+  - [Float](https://www.w3schools.com/css/css_float.asp)
   - [Inline block](https://www.w3schools.com/css/css_inline-block.asp)
   - [Align](https://www.w3schools.com/css/css_align.asp)
   - [Combinators](https://www.w3schools.com/css/css_combinators.asp)
@@ -89,4 +89,5 @@ Tìm hiểu về HTML, CSS, JavaScript + jQuery cơ bản, Bootstrap, Photoshop,
 - Git
   - [Git Basics](https://backlog.com/git-tutorial/what-is-git/)
   - [Git Collaboration](https://backlog.com/git-tutorial/using-branches/)
+  - Pull Request Flow: Khi làm xong add account người hướng dẫn là Reviewer và Assignee, khi người hướng dẫn review xong, nếu có lỗi sẽ set Assignee cho thực tập sinh, khi thực tập sinh làm xong lại set Assignee cho người hướng dẫn; lặp lại bước này đến khi không có lỗi
 - Tập cắt một file PSD dựa trên starter kit
