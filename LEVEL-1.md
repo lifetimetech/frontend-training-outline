@@ -89,5 +89,5 @@ Tìm hiểu về HTML, CSS, JavaScript + jQuery cơ bản, Bootstrap, Photoshop,
 - Git
   - [Git Basics](https://backlog.com/git-tutorial/what-is-git/)
   - [Git Collaboration](https://backlog.com/git-tutorial/using-branches/)
-  - Pull Request Flow: Khi làm xong add account người hướng dẫn là Reviewer và Assignee, khi người hướng dẫn review xong, nếu có lỗi sẽ set Assignee cho thực tập sinh, khi thực tập sinh làm xong lại set Assignee cho người hướng dẫn; lặp lại bước này đến khi không có lỗi
+  - Pull Request Flow: Khi làm xong add account người hướng dẫn là Reviewer và Assignee ([Ví dụ](http://prntscr.com/mkyggj)), khi người hướng dẫn review xong, nếu có lỗi sẽ set Assignee cho thực tập sinh, khi thực tập sinh làm xong lại set Assignee cho người hướng dẫn; lặp lại bước này đến khi không có lỗi
 - Tập cắt một file PSD dựa trên starter kit
