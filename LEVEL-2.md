@@ -13,34 +13,31 @@ HTML, CSS nâng cao, Preprocessor(SASS), SEO
 
 ## Tuần 1
 - Responsive
-  - HTML meta viewport
-  - Media query trong CSS
-  - srcset cho img
-- High DPI/Retina
-  - Xử lí ảnh
-- SVG, Icon Font
+  - [Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
+  - [Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
+  - [Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
+  - [Media Query](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+  - [Images](https://www.w3schools.com/css/css_rwd_images.asp), [srcset](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+  - [Video](https://www.w3schools.com/css/css_rwd_videos.asp)
+- [Icons](https://www.w3schools.com/css/css_icons.asp)
+- [High DPI/Retina](https://www.sitepoint.com/css-techniques-for-retina-displays/)
+- [SVG](https://css-tricks.com/lodge/svg/)
+- [Data URIs](https://css-tricks.com/data-uris/)
 
 ## Tuần 2
-- SASS
-  - SASS là gì
-  - Sử dụng tool để compile ra CSS
-  - Import
-  - Biến
-  - Nested selector
-  - Mixin
-  - Kế thừa %selector
-- SEO
-  - Semantic HTML in HTML5
-  - Microdata/Rich snippet
+- [BEM](http://getbem.com/)
+- [SASS](https://sass-lang.com/guide)
 
 ## Tuần 3
-- Performance
-  - Minify & concat
-  - HTML structure
-  - HTML5: async, defer, preload, prefetch
-- BEM
-  - Block, Element, Modifier
-  - Nắm được tư tưởng viết code dùng lại của BEM
+- SEO
+  - Semantic HTML in HTML5
+  - [Microdata/Rich snippet](https://developer.mozilla.org/en-US/docs/Web/HTML/Microdata)
+- [Optimization](https://www.keycdn.com/blog/front-end-optimization)
+- JavaScript Browser
+  - [Document](http://javascript.info/document)
+  - [Introduction into Events](http://javascript.info/events)
+  - [Events in details](http://javascript.info/event-details)
+  - [Forms, controls](http://javascript.info/forms-controls)
 
 ## Tuần 4
 - Cắt PSD theo BEM, SASS, hỗ trợ responsive, High DPI, SEO
